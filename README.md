@@ -2,6 +2,8 @@
 
 Welcome emmahewson,
 
+![Video](https://github.com/emmahewson/quiz-tutorial/us_3-1.mp4)
+
 <details><summary>My videos</summary>
 
 https://github.com/emmahewson/quiz-tutorial/assets/116887840/3ec1f561-80bc-41e5-9ad7-6d95bd27941d
